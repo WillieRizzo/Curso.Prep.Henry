@@ -1,0 +1,21 @@
+# Comceptos Basicos JS
+---
+1. En el sigueinte documento se da una  explicación de los siguientes conceptos.
+
+	* Variables = Es un espacio en memoria en donde podemos guardar informacion o datos para que puedean se unsados. 
+    Es como una cajita en donde guardamos  dato o informacion y este puede se de diferentes tipos. como letras o numweros.
+    
+	* Strings = Es una dacena de caracteres, es decir un grupo de letras, mumeros o signos o union de estos, que lo contenemos dentro de comillas dobles o simples.
+    Ejemplo: "hola", "hola1", "hola13#".
+
+	* Funciones (argumentos, `return`) .- Las funciones son un fracmento o pedazo de codigo que tiene un principio y un fin, las cuales tienen una tarea.
+    a las funciones le damos tareas a realizar para que realizen un trabajo especifico. La nombramos por lo genral en referencia al tipo de trabajo o preceso que realizan.
+    podemos pasarle informacion, para que en sabe a esta nos den informacion mas espeficica (argumentos)
+    Las funcioes nos devuelven lo que necesitamos pidiemdo su retorno o respuesta con la palabra reservada (return).
+
+	* Declaraciones `if` .- La  declaracion (if) es la condicion que en español seria (si!) es quiere decir que se tiene que cumplir o no para poder realizar algun accion despues.
+    por ejemplo cuando pides permiso a tus padres para una fiesta o ir a jugar. ellos te daran una condicion. un ejemplo seria:
+    " Si, hacer tu tarea antes puedes ir a jugar despues de termimarla" o "Si, me ayudas en la casa puedes ir a el baile de lo contrario no".
+
+	* Valores booleanos (`true`, `false`) .-  Es como decir que tienes 2 opciones un una situacion. Osea puedes elejir entre 2 caminos o 2 respuestas posibles.
+    Ejemplo: Dia o noches, es blanco o negro, esta respuesta no tiene matices solo 2 opciones, bueno o malo, negro o blanco.
