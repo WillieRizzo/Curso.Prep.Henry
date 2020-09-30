@@ -4,7 +4,7 @@
 
 	* Variables = Es un espacio en memoria en donde podemos guardar informacion o datos para que puedean se unsados. 
     Es como una cajita en donde guardamos  dato o informacion y este puede se de diferentes tipos. como letras o numweros.
-    
+
 	* Strings = Es una dacena de caracteres, es decir un grupo de letras, mumeros o signos o union de estos, que lo contenemos dentro de comillas dobles o simples.
     Ejemplo: "hola", "hola1", "hola13#".
 

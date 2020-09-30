@@ -1,0 +1,10 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for .- Un bucle es una secuencia o ciclo que repite varias veces un mismo trozo de código o una secuencia de instrucciones, hasta que la condición o lo que le pedimos se cumpla.
+       cuando la condicion o lo que buscamos se cumple debe dejar de recorrerse.
+
+ && .- Es un operador logico en el cual necesitamos 2 condicines que se cumplan para que se ejecute o se umpla una orden..
+ este se puede traduciir o interpretar como and en ingles o y en español.
+
+|| .- Este operador logico esta representado por 2 barras se puede traducir como o el cual nos da como  informacion, que si uno de las 2 instrcciones o condiciones se cumple, se ejecutan la linea de codigo o las instrcciones que se escribieron antes.
+
+! .- Este operador logico se puede representar como "no", y es como que digamos que se realize lo contrario de la condicion. 
